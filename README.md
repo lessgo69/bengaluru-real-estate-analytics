@@ -8,7 +8,7 @@ A real-estate company wants to understand what factors influence property prices
 
 ## 📂 Dataset Source
 * **Dataset Name:** Bengaluru House Price Data (Public Domain)
-* **Source Link:** [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets/amitabhannadurai/bengaluru-house-price-data)
+** **Source Link:** [Kaggle - Bengaluru House Price Data](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data)
 * **Processed Records:** 11,985 cleaned residential property listings (derived from 13,320 raw records).
 
 ## 🛠️ Technology Stack
